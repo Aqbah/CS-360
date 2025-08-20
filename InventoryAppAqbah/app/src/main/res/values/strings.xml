@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="inventory_app">Inventory App</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_account">Create Account</string>
+    <string name="add_item">Add Item</string>
+    <string name="delete">Delete</string>
+    <string name="quantity_0">Quantity: 0</string>
+    <string name="item_name">Item Name</string>
+    <string name="save_item">Save Item</string>
+    <string name="reorder_threshold">Reorder Threshold</string>
+    <string name="quantity">Quantity</string>
+    <string name="sku_barcode">SKU / Barcode</string>
+    <string name="item_name_add">Item Name</string>
+    <string name="add_inventory_item">Add Inventory Item</string>
+    <string name="allow_sms_permission">Allow SMS Permission</string>
+    <string name="sms_permission_required">SMS Permission Required</string>
+</resources>
